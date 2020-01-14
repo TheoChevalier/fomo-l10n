@@ -32,7 +32,7 @@ msgstr "Oups !"
 
 #: network-api/networkapi/templates/partials/404.html:9
 msgid "Sorry, the page does not exist"
-msgstr "Désolé, cette page n’existe pas"
+msgstr "Désolé, cette page n’existe pas."
 
 #: network-api/networkapi/templates/partials/404.html:10
 #, python-format
