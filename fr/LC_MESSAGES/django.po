@@ -28,7 +28,7 @@ msgstr "Fondation Mozilla"
 
 #: network-api/networkapi/templates/partials/404.html:7
 msgid "Uh oh!"
-msgstr "Oups…"
+msgstr "Oups !"
 
 #: network-api/networkapi/templates/partials/404.html:9
 msgid "Sorry, the page does not exist"
